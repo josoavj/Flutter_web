@@ -1,8 +1,13 @@
 # learn_web
 
-A new Flutter project.
+- **Type:** Web App
+- **Techno:** Flutter
 
-## Getting Started
+
+## Contributors
+- [Josoa](https://github.com/Josoa886)
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
